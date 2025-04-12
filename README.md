@@ -2,6 +2,13 @@
 
 Este projeto demonstra como criar um sistema de **autenticação completo e profissional** em um aplicativo React Native utilizando **Supabase**, **Expo Router** e boas práticas de organização de código.
 
+## 📸 Preview
+
+<p align="center">
+  <img alt="Agregador de Links" src="https://i.ibb.co/vC87z81x/Whats-App-Image-2025-04-11-at-20-59-51.jpg" width="50%">
+</p>
+
+
 ## 🚀 Tecnologias utilizadas
 
 - [React Native](https://reactnative.dev/)
@@ -31,11 +38,5 @@ Este projeto demonstra como criar um sistema de **autenticação completo e prof
 📦 lib
  ┣ 📄 supabase.ts     # Instância do Supabase
  ┗ 📄 useAuth.tsx     # Hook de autenticação
-
-## 📸 Preview
-
-<p align="center">
-  <img alt="Agregador de Links" src="https://ibb.co/LDfLpfSz" width="50%">
-</p>
 
 
