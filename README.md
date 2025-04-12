@@ -35,7 +35,7 @@ Este projeto demonstra como criar um sistema de **autenticação completo e prof
 ## 📸 Preview
 
 <p align="center">
-  <img alt="Agregador de Links" src="https://i.ibb.co/vC87z81x/Whats-App-Image-2025-04-11-at-20-59-51.jpg" width="50%">
+  <img alt="Agregador de Links" src="https://ibb.co/LDfLpfSz" width="50%">
 </p>
 
 
